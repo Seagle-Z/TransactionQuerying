@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>Transaction querying</title>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <link rel="stylesheet" href="bootstrap.min.css">
+      <link rel="stylesheet" href="main.css">
+   </head>
+
+   <body>
+      <div class="inputTag">  Zip code:
+          <input id="zipCode" class="inputBox" type="text" name="fname">
+      </div>
+      <div class="inputTag">Time range:
+          <input id="startDate" class="inputBox" type="text" name="fname">
+          -
+          <input id="endDate" class="inputBox" type="text" name="fname">
+      </div>
+      <button onclick="sendQuerying()">Querying</button>
+      <p id="result"> </p>
+      <script>
+          function sendQuerying() {
+              var zipCode = document.getElementById("zipCode").value;
+              var startDate = document.getElementById("startDate").value;
+              var endDate = document.getElementById("endDate").value;
+              const xhr = new XMLHttpRequest();
+              // xhttp.onreadystatechange = function() {
+              //     if (this.readyState == 4 && this.status == 200) {
+              //         document.getElementById("result").innerHTML = this.responseText;
+              //     }
+              // };
+              xhr.open("GET", "/api/server/" +
+                          startDate.toString() + "_" + endDate.toString() +
+                          "_" + zipCode, true);
+              xhr.send();
+
+              xhr.onreadystatechange = (e) => {
+                  document.getElementById("result").innerHTML = xhr.responseText;
+              }
+              // window.open("http://127.0.0.1:8080/api/server/" +
+              //             startDate.toString() + "_" + endDate.toString() + "_" +
+              //             zipCode.toString() + "/", "_self");
+              //document.getElementById("demo").innerHTML = zipCode;
+          }
+      </script>
+
+   </body>
+
+</html>

@@ -1,0 +1,245 @@
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/QueryingServer.dll.config
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/QueryingServer.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/QueryingServer.pdb
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/csc.exe
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/csc.exe.config
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/csc.rsp
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/csi.exe
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/csi.exe.config
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/csi.rsp
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.Managed.Core.targets
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.AppContext.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Console.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.IO.Compression.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.IO.Pipes.AccessControl.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.IO.Pipes.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.Claims.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.ValueTuple.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/vbc.exe
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/vbc.exe.config
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/vbc.rsp
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/VBCSCompiler.exe
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/Antlr3.Runtime.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/Newtonsoft.Json.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Net.Http.Formatting.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.Helpers.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.Http.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.Http.WebHost.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.Mvc.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.Optimization.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.Razor.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.WebPages.Deployment.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.WebPages.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.WebPages.Razor.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/WebGrease.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/Newtonsoft.Json.xml
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Net.Http.Formatting.xml
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.Helpers.xml
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.Http.xml
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.Http.WebHost.xml
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.Mvc.xml
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.Optimization.xml
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.Razor.xml
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.WebPages.xml
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.WebPages.Deployment.xml
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/System.Web.WebPages.Razor.xml
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/Antlr3.Runtime.pdb
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/obj/Debug/QueryingServer.csprojAssemblyReference.cache
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/obj/Debug/QueryingServer.csproj.CoreCompileInputs.cache
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/obj/Debug/QueryingServer.csproj.CopyComplete
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/obj/Debug/QueryingServer.dll
+C:/Users/Seagle/Documents/Projects/Projects dotNet/QueryingServer/QueryingServer/obj/Debug/QueryingServer.pdb
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/QueryingServer.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/QueryingServer.pdb
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/csc.exe
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/csc.exe.config
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/csc.rsp
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/csi.exe
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/csi.exe.config
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/csi.rsp
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.AppContext.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Collections.Immutable.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Console.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.IO.Compression.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.IO.FileSystem.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.IO.Pipes.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Reflection.Metadata.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.AccessControl.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.Claims.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.ValueTuple.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Xml.XPath.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/vbc.exe
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/vbc.exe.config
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/vbc.rsp
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/VBCSCompiler.exe
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/roslyn/VBCSCompiler.exe.config
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/Antlr3.Runtime.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/Microsoft.Web.Infrastructure.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/Newtonsoft.Json.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Net.Http.Formatting.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.Helpers.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.Http.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.Http.WebHost.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.Mvc.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.Optimization.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.Razor.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.WebPages.Deployment.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.WebPages.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.WebPages.Razor.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/WebGrease.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/Newtonsoft.Json.xml
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Net.Http.Formatting.xml
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.Helpers.xml
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.Http.xml
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.Http.WebHost.xml
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.Mvc.xml
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.Optimization.xml
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.Razor.xml
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.WebPages.xml
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.WebPages.Deployment.xml
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/System.Web.WebPages.Razor.xml
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/Antlr3.Runtime.pdb
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/obj/Debug/QueryingServer.csprojAssemblyReference.cache
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/obj/Debug/QueryingServer.csproj.CoreCompileInputs.cache
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/obj/Debug/QueryingServer.csproj.CopyComplete
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/obj/Debug/QueryingServer.dll
+/Users/seagle/Projects/dotNet/QueryingServer/QueryingServer/obj/Debug/QueryingServer.pdb
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\QueryingServer.dll.config
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\QueryingServer.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\QueryingServer.pdb
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\csc.exe
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\csc.exe.config
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\csc.rsp
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\csi.exe
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\csi.exe.config
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\csi.rsp
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.AppContext.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Console.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Security.Claims.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\vbc.exe
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\vbc.exe.config
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\vbc.rsp
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\Antlr3.Runtime.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\Newtonsoft.Json.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Net.Http.Formatting.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.Helpers.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.Http.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.Http.WebHost.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.Mvc.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.Optimization.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.Razor.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.WebPages.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\WebGrease.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\Newtonsoft.Json.xml
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Net.Http.Formatting.xml
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.Helpers.xml
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.Http.xml
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.Http.WebHost.xml
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.Mvc.xml
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.Optimization.xml
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.Razor.xml
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.WebPages.xml
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\Antlr3.Runtime.pdb
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\obj\Debug\QueryingServer.csprojAssemblyReference.cache
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\obj\Debug\QueryingServer.csproj.CoreCompileInputs.cache
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\obj\Debug\QueryingServer.csproj.CopyComplete
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\obj\Debug\QueryingServer.dll
+C:\Users\Seagle\Desktop\QueryingServer\QueryingServer\obj\Debug\QueryingServer.pdb

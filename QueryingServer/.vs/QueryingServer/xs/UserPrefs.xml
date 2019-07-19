@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{19D35216-2D91-4CB4-A91B-3526E873EF74}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QueryingServer/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="QueryingServer/Controllers/ServerController.cs" Line="37" Column="27" />
+      <File FileName="QueryingServer/TransactionQuery.cs" Line="14" Column="34" />
+      <File FileName="QueryingServer/Areas/HelpPage/Models/HelpPageApiModel.cs" Line="1" Column="1" />
+      <File FileName="QueryingServer/Areas/HelpPage/Views/_ViewStart.cshtml" Line="4" Column="2" />
+      <File FileName="QueryingServer/Areas/HelpPage/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="QueryingServer/Content/Site.css" Line="1" Column="1" />
+      <File FileName="QueryingServer/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QueryingServer" expanded="True">
+            <Node name="QueryingServer" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.QueryingServer PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
